@@ -51,7 +51,7 @@ async function renderNewQuote() {
     startTimer()
 }
 
-//Timer code
+//Timer code here
 
 let startTime
 function startTimer(){
